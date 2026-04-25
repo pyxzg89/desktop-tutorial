@@ -4,4 +4,4 @@ This is your README. READMEs are where you can communicate what your project is 
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
 
-Gather the official entrances of universities in Henan and present the statistics and classification of the number and nature of universities in the province in one stop.
+汇聚河南高校官方入口，一站式呈现全省高校数量统计与办学性质分类。
